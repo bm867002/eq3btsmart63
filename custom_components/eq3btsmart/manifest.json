@@ -1,6 +1,7 @@
 {
   "domain": "eq3btsmart63",
   "name": "eQ-3 Bluetooth Smart Thermostats (from HA 6.3)",
+  "version": "6.3.0",
   "bluetooth": [
     {
       "local_name": "CC-RT-BLE",
