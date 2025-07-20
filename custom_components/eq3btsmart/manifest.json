@@ -1,5 +1,5 @@
 {
-  "domain": "eq3btsmart63",
+  "domain": "eq3btsmart",
   "name": "eQ-3 Bluetooth Smart Thermostats (from HA 6.3)",
   "version": "6.3.0",
   "bluetooth": [
@@ -23,5 +23,5 @@
   "integration_type": "device",
   "iot_class": "local_polling",
   "loggers": ["eq3btsmart"],
-  "requirements": ["eq3btsmart==2.1.0"]
+  "requirements": ["eq3btsmart==2.1.0", "bleak-esphome==3.1.0"]
 }
